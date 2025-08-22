@@ -21,9 +21,13 @@ This project demonstrates how **Simple Linear Regression** and **Multiple Linear
 ---
 
 ## 📂 Project Structure  
+
 ├── data/ # Dataset (CSV file)
+
 ├── regression_project.py # Main code file
+
 ├── results/ # Plots and evaluation results
+
 ├── README.md # Project documentation
 ---
 
@@ -35,9 +39,13 @@ https://github.com/divya2010-maker/Student_score_prediction
 
 --------------
 🎯 Sample User Interaction
+
 ⏳ Enter Study Hours: 4
+
 ✅ Predicted Score if a student studies 4 hours/day = 46.27%
 
 ⏳ Enter Study Hours: 5
+
 ⏳ Enter Attendance (%): 80
+
 ✅ Predicted Score = 63.41%
